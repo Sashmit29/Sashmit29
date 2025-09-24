@@ -1,4 +1,4 @@
-### Hi there, I\'m Sashmit :) {#hi-there-im-sashmit}
+### Hi there, I\'m Sashmit :)
 
 I\'m a 14-year-old robotics enthusiast and software developer currently
 studying at the **University of Washington** **Seattle Campus** through
@@ -14,7 +14,7 @@ I\'m not in the workshop, I enjoy building personal projects, mentoring
 younger students in STEM, and exploring how technology can be used for
 education.
 
-### 🛠️ My Tech Skill Set {#my-tech-skill-set}
+### 🛠️ My Tech Skill Set
 
 | **Languages** | **Robotics & Hardware**  | **Software & Tools**       |
 |---------------|--------------------------|----------------------------|
@@ -23,7 +23,7 @@ education.
 | C++ HTML/CSS  | AprilTags                | CAD (Solid Edge, OpenSCAD) |
 | Python        | PID Control Kinematics   | WPILib Command Scheduler   |
 
-### 🚀 My Work & Projects {#my-work-projects}
+### 🚀 My Work & Projects
 
 I believe in learning by doing. Here are some of the projects I\'m most
 proud of.
@@ -40,7 +40,7 @@ proud of.
 </tr>
 <tr class="odd">
 <th><strong>FIRST Robotics (FRC &amp; FTC)</strong></th>
-<th><p>As Director of Software on FTC 19708 and FRC 9023, I led the
+<td><p>As Director of Software on FTC 19708 and FRC 9023, I led the
 development of an intelligent localization system fusing AprilTag vision
 and wheel odometry data with a Kalman filter to achieve &lt;1cm position
 accuracy. I also built a dynamic autonomous framework using pose-based
@@ -49,31 +49,31 @@ created intelligent intake systems with TensorFlow and OpenCV, and
 derived direct and inverse kinematics models for various types of
 arms.</p>
 <p>(Not available to view on GitHub since team repositories are
-private)</p></th>
+private)</p></td>
 </tr>
 <tr class="header">
 <th><strong>Flag Matching Game</strong></th>
-<th><p>A timed quiz game built with vanilla JavaScript, featuring a
+<td><p>A timed quiz game built with vanilla JavaScript, featuring a
 custom drag-and-drop UI, dynamic DOM generation, and an event-driven
 state management system. A deep dive into front-end logic and
 interactivity.</p>
-<p>View on GitHub</p></th>
+<a href="https://github.com/Sashmit29/FlagGame">View on GitHub</a></td>
 </tr>
 <tr class="odd">
 <th><strong>Punnett Square Generator</strong></th>
-<th><p>A web tool that dynamically generates Punnett squares for
+<td><p>A web tool that dynamically generates Punnett squares for
 multi-trait genetic crosses. It uses an iterative algorithm to calculate
 all possible gamete combinations and determine phenotypic
 probabilities.</p>
-<p>View on GitHub</p></th>
+<a href="https://github.com/Sashmit29/PunnettSquareGenerator">View on GitHub</a></td>
 </tr>
 <tr class="header">
 <th><strong>Custom Quadcopter</strong></th>
-<th>Designed, 3D-printed, and programmed a drone from scratch. I used an
+<td>Designed, 3D-printed, and programmed a drone from scratch. I used an
 OpenSCAD script to programmatically generate propeller models. I also
 implemented a PID control loop in Python on a BBC micro:bit to fuse IMU
 and accelerometer data for a stable auto-hover and auto-land
-feature.</th>
+feature.</td>
 </tr>
 </thead>
 <tbody>
